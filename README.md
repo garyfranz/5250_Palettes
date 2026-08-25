@@ -19,3 +19,7 @@
 ## purp.col
 
 ![purp](purp.png)
+
+## synthwave.col
+
+![synthwave](synthwave.png)
